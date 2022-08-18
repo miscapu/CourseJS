@@ -12,4 +12,4 @@ var z   =   x + y;
     print variable
     ===========================
  */
-document.getElementById( "demo" ).innerHTML =   "The value of z is: " + z;
+document.getElementById( "demo" ).innerHTML =   "The <p>value of & < > &ññ saaa'' is: " + z;
